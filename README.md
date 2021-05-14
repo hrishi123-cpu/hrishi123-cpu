@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hrishikesh Mahajan
 - 👀 I’m interested in Front End Web Development, ReactJS, Machine Learning
 - 🌱 I’m currently learning ReactJs
-- 
+
 
 
 <!---
